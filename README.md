@@ -1,5 +1,6 @@
 # COCA-COLA
 ![](./img/Coca_Cola.png)
+![](./img/Guarana-jesus.png)
 
 desenvolvido nas aulas da disciplina linguagem de marcação na escola SENAI jandira
 
