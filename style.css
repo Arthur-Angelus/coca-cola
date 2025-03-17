@@ -10,16 +10,6 @@ body {
     flex-direction: column;
     background:linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
 }
-
-header, footer {
-    height: 100px;
-    background-color: #CF2425;
-    color: #FFFFFF;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
-}
 header {
     height: 100px;
     display: flex;
@@ -64,4 +54,19 @@ main {
 .content-image {
     height: 85vh;
 }
+footer {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 75px;
+    padding-left: 75px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+
+footer div {
+    width: 64px;
+}
+
 
